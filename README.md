@@ -3,4 +3,4 @@ This is a listing of all of the on-boarding messages used in the [ImprovED Colla
 
 1. []() [0 minutes]
 2. []() [0 minutes]
-3. [Channel Navigation](aloha/channelnav.md) [5 minutes]
+3. [Channel Navigation](channelnav.md) [5 minutes]
